@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -38,9 +37,9 @@
   </style>
 </head>
 <body>
-  <h1>Clicker Game</h1>
+  <h1>Juegito de xp</h1>
   <div id="counter">0</div>
-  <button id="clickButton">Click me!</button>
+  <button id="clickButton">+1</button>
   <footer> XDDDDD NO SE QUE ES ESTO ESTO ES PARA UN SERVER DE DISCORD XDDDD </footer>
 
   <script>
